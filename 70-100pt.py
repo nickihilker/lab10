@@ -33,7 +33,14 @@ line4 = drawpad.create_line(670,50,710,150)
 
 house1 = drawpad.create_rectangle(80,150,670,510, fill = 'red')
 
+#windows
+window1 = drawpad.create_rectangle(120,180,300,280)
+window2 = drawpad.create_rectangle(460,180,650,260)
+window3 = drawpad.create_rectangle(120,360,300,460)
+window4 = drawpad.create_rectangle(460,360,650,460)
+#door
 
+door = drawpad.create_rectangle(320,360,440,510)
 
 
 
